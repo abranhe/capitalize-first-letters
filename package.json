@@ -1,0 +1,30 @@
+{
+	"name": "capitalize-first-letters",
+	"version": "0.0.0",
+	"description": "Capizalize first lettes of a sentence",
+	"license": "MIT",
+	"repository": "abranhe/capitalize-first-letters",
+	"author": {
+		"name": "Abraham Hernandez",
+		"email": "abraham@abranhe.com",
+		"url": "https://abranhe.com"
+	},
+	"engines": {
+		"node": ">=8"
+	},
+	"scripts": {
+		"test": "xo && ava"
+	},
+	"files": [
+		"index.js"
+	],
+	"keywords": [
+		"capitalize",
+		"strings",
+		"truncate"
+	],
+	"devDependencies": {
+		"ava": "^1.4.1",
+		"xo": "^0.24.0"
+	}
+}
