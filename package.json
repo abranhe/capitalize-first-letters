@@ -1,6 +1,6 @@
 {
 	"name": "capitalize-first-letters",
-	"version": "0.0.0",
+	"version": "0.0.1",
 	"description": "Capizalize first lettes of a sentence",
 	"license": "MIT",
 	"repository": "abranhe/capitalize-first-letters",
