@@ -10,5 +10,6 @@ test('title', t => {
 	});
 
 	t.is(capitalizeFirstLetters('foo bar'), 'Foo Bar');
+	t.is(capitalizeFirstLetters('hello world'), 'Hello World');
 	t.is(capitalizeFirstLetters(''), '');
 });

@@ -2,23 +2,20 @@
 
 > Capizalize first lettes of a sentence
 
-
 ## Install
 
 ```
 $ npm install capitalize-first-letters
 ```
 
-
 ## Usage
 
 ```js
 const capitalizeFirstLetters = require('capitalize-first-letters');
 
-capitalizeFirstLetters('foo bar');
-// => 'Foo Bar'
+capitalizeFirstLetters('hello world');
+// => 'Hello World'
 ```
-
 
 ## API
 
@@ -27,6 +24,10 @@ capitalizeFirstLetters('foo bar');
 #### input
 
 Type: `string`
+
+## Related
+
+- [transform-string](https://github.com/abranhe/transform-string): Transform any string using properties CSS like
 
 ## License
 
