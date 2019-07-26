@@ -12,6 +12,6 @@
  * // => 'Hello World'
  * ```
   */
-declare function transformString(input: string): string
+declare function capitalizeFirstLetters(input: string): string
 
-export = transformString;
+export = capitalizeFirstLetters;
